@@ -37,7 +37,6 @@ The goal is to simulate the process of building a small-scale LLM from scratch.
 |:--|:--|:--|
 | **Evaluation Loss** | `5.3089` | Average cross-entropy loss over validation set |
 | **Perplexity (PPL)** | `202.12` | Measure of model uncertainty |
-| **Token Accuracy (approx.)** | `≈ 35-55% (expected)` | Proportion of correct next-token predictions |
 
 > A PPL of **~200** indicates moderate predictive ability — expected for a small model trained on 100K examples.  
 > With more data or epochs, the model can achieve significantly better fluency and lower loss.
