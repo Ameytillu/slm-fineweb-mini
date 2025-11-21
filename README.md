@@ -49,7 +49,7 @@ The goal is to simulate the process of building a small-scale LLM from scratch.
 - **Perplexity (↓)** – Indicates how “surprised” the model is by unseen text.  
 - **Accuracy (↑)** – Measures next-token correctness (approximation only).
 
-**Current results** reflect that the model has learned meaningful token-level dependencies but lacks deep contextual fluency due to limited data and epochs — perfect for educational and research demonstration.
+**Current results** reflect that the model has learned meaningful token-level dependencies but lacks deep contextual fluency due to limited data and epochs.
 
 ---
 
